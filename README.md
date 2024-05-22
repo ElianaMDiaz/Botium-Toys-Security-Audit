@@ -22,7 +22,7 @@ The audit was conducted by completing a controls and compliance checklist based 
 - **Intrusion Detection System (IDS)**: No
 - **Backups**: No
 - **Antivirus Software**: Yes
-- **Manual Monitoring of Legacy Systems**: Yes
+- **Manual Monitoring of Legacy Systems**: No
 - **Encryption**: No
 - **Password Management System**: No
 - **Physical Security (Locks, CCTV, Fire Detection)**: Yes
@@ -35,7 +35,7 @@ The audit was conducted by completing a controls and compliance checklist based 
   - Secure password management policies: No
 
 - **GDPR**:
-  - Data privacy for E.U. customers: Yes
+  - Data privacy for E.U. customers: No
   - Breach notification plan: Yes
   - Data classification and inventory: No
   - Privacy policies and documentation: Yes
@@ -44,7 +44,7 @@ The audit was conducted by completing a controls and compliance checklist based 
   - User access policies: No
   - Confidentiality of sensitive data: No
   - Data integrity: Yes
-  - Data availability: Yes
+  - Data availability: No
 
 ## Recommendations
 To enhance Botium Toys' security posture, the following controls should be prioritized:
